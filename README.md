@@ -1,4 +1,4 @@
-![Header](https://github.com/Judd1zzz/Judd1zzz/blob/main/assets/header.jpg)
+![Header](https://github.com/Judd1zzz/Judd1zzz/blob/master/assets/header.jpg)
 
 ### 🛠️ Languages and Tools:
 
