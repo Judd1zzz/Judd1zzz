@@ -19,6 +19,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-36393f.svg?style=for-the-badge&logo=Telegram&labelColor=FFFFFF)](https://t.me/Judd1zzz)
 [![Vkontakte](https://img.shields.io/badge/VKontakte-FFFFFF.svg?style=for-the-badge&logo=VK&logoColor=FFFFFF&labelColor=blue)](https://vk.com/dev_cdz_bot)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
 <a href="https://github.com/judd1zzz">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Judd1zzz&show_icons=true&hide=prs&theme=tokyonight" alt="Statistics"/>
