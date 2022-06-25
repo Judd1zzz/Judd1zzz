@@ -11,6 +11,9 @@
 
 ### 📊 During this week I spent time on
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary><b>📝 About Me</b></summary>
   <br/>
