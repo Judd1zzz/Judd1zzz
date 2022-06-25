@@ -4,11 +4,6 @@
 - 🌱 I’m currently learning Swift, English language
 - 📫 How to reach me: [@judd1zzz](https://t.me/judd1zzz)
 
-### 🔗 Connect with me
-
-[![Telegram](https://img.shields.io/badge/Telegram-36393f.svg?style=for-the-badge&logo=Telegram&labelColor=FFFFFF)](https://t.me/Judd1zzz)
-[![Vkontakte](https://img.shields.io/badge/VKontakte-FFFFFF.svg?style=for-the-badge&logo=VK&logoColor=FFFFFF&labelColor=blue)](https://vk.com/dev_cdz_bot)
-
 ### 📊 During this week I spent time on
 
 <!--START_SECTION:waka-->
@@ -40,8 +35,8 @@ At the moment, despite the fact that I am just finishing school, I have a projec
 </details>
 
 <details>
+
   <summary><b>🛠️ Languages and Tools:</b></summary>
-  <br/>
 
 <p align="center">
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-f5f542.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=FFFFFF" alt="Python"></a>
@@ -54,5 +49,13 @@ At the moment, despite the fact that I am just finishing school, I have a projec
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=FFFFFF" alt="MySQL"></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=FFFFFF" alt="SQLite"></a>
 </p><br>
+
+</details>
+
+<details>
+  <summary><b>🔗 Connect with me</b></summary>
+
+[![Telegram](https://img.shields.io/badge/Telegram-36393f.svg?style=for-the-badge&logo=Telegram&labelColor=FFFFFF)](https://t.me/Judd1zzz)
+[![Vkontakte](https://img.shields.io/badge/VKontakte-FFFFFF.svg?style=for-the-badge&logo=VK&logoColor=FFFFFF&labelColor=blue)](https://vk.com/dev_cdz_bot)
 
 </details>
