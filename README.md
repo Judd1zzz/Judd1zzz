@@ -20,6 +20,12 @@
 [![Vkontakte](https://img.shields.io/badge/VKontakte-FFFFFF.svg?style=for-the-badge&logo=VK&logoColor=FFFFFF&labelColor=blue)](https://vk.com/dev_cdz_bot)
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   1 hr 19 mins    ████████████████████████░   95.75 %
+Python     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
