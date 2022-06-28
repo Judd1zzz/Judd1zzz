@@ -1,4 +1,4 @@
-name: Waka Readme
+name: WakaTime
 
 on:
   schedule:
@@ -10,11 +10,10 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TIMEZONE: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
-          SYMBOL_VERSION: 3
+          filename: metrics.plugin.wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
