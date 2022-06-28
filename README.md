@@ -7,7 +7,7 @@
 ### 📊 During this week I spent time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -49,7 +49,7 @@ Windows                  12 hrs 1 min        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ![Chart not found](https://raw.githubusercontent.com/Judd1zzz/Judd1zzz/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2022 14:05:23 UTC
+ Last Updated on 28/06/2022 14:08:14 UTC
 <!--END_SECTION:waka-->
 
 <details>
