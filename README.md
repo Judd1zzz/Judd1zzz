@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Swift, English language
 - 📫 How to reach me: [@judd1zzz](https://t.me/judd1zzz)
 
-### 📊 During this week I spent time on
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
