@@ -5,29 +5,28 @@
 - 📫 How to reach me: [@judd1zzz](https://t.me/judd1zzz)
 
 <!--START_SECTION:waka-->
-📊 **На этой неделе мое время было потрачено на** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Часовой Пояс: Europe/Moscow
+⌚︎ Time Zone: Europe/Moscow
 
-💬 Языки Программирования: 
+💬 Programming Languages: 
 Python                   8 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   70.45% 
 Markdown                 3 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.23% 
 YAML                     4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.67% 
 Bash                     3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.52% 
 Text                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.1%
 
-🔥 Редакторы: 
+🔥 Editors: 
 VS Code                  11 hrs 16 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.77% 
 PyCharmCore              44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.23%
 
-💻 Операционная Система: 
+💻 Operating System: 
 Windows                  12 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
 
 
- Last Updated on  UTC
 <!--END_SECTION:waka-->
 
 <details>
