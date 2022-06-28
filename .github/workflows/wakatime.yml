@@ -21,4 +21,6 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 2
+          UPDATED_DATE_FORMAT: ""
+          LOCALE: "ru"
