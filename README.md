@@ -1,7 +1,7 @@
 ![Header](https://github.com/Judd1zzz/Judd1zzz/blob/master/assets/header.jpg)
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Swift, English language
+- 🎁 I’m currently working on something cool 😉
+- 🔬 I’m currently learning Swift, FastAPI, English language
 - 📫 How to reach me: [@judd1zzz](https://t.me/judd1zzz)
 
 <!--START_SECTION:waka-->
@@ -25,7 +25,6 @@ PyCharmCore              44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Windows                  12 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
-
 
 <!--END_SECTION:waka-->
 
@@ -59,15 +58,14 @@ At the moment, despite the fact that I am just finishing school, I have a projec
   <summary><b>🛠️ Languages and Tools:</b></summary>
 
 <p align="center">
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/python-f5f542.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=FFFFFF" alt="Python"></a>
-<a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=FFFFFF" alt="Django"></a>
-<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-F05032.svg?style=for-the-badge&logo=redis&logoColor=F05032&labelColor=FFFFFF" alt="Redis"></a>
-<a href="https://www.docker.com">
-<img src="https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=Docker&labelColor=FFFFFF&logoColor=blue" alt="Docker">
-</a>
-<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=FFFFFF" alt="PostgreSQL"></a>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=FFFFFF" alt="MySQL"></a>
-<a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=FFFFFF" alt="SQLite"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+<a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+<a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
+<a href="https://github.com/Judd1zzz"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p><br>
 
 </details>
