@@ -1,7 +1,7 @@
 ![Header](https://github.com/Judd1zzz/Judd1zzz/blob/master/assets/header.jpg)
 
 - 🎁 I’m currently working on something cool 😉
-- 🔬 I’m currently learning Swift, FastAPI, English language
+- 🔬 I’m currently learning FastAPI, English language
 - 📫 How to reach me: [@judd1zzz](https://t.me/judd1zzz)
 
 <!--START_SECTION:waka-->
