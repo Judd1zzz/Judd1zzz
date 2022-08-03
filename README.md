@@ -69,6 +69,5 @@ At the moment, despite the fact that I am just finishing school, I have a projec
   <summary><b>🔗 Connect with me</b></summary>
 
 [![Telegram](https://img.shields.io/badge/Telegram-36393f.svg?style=for-the-badge&logo=Telegram&labelColor=FFFFFF)](https://t.me/Judd1zzz)
-[![Vkontakte](https://img.shields.io/badge/VKontakte-FFFFFF.svg?style=for-the-badge&logo=VK&logoColor=FFFFFF&labelColor=blue)](https://vk.com/dev_cdz_bot)
 
 </details>
