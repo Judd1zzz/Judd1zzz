@@ -1,4 +1,4 @@
-![Header](https://github.com/Judd1zzz/Judd1zzz/blob/master/assets/header.jpg)
+![Header](https://github.com/Judd1zzz/Judd1zzz/blob/main/assets/header.jpg)
 
 <p align="center">
   <i>Python Developer | Backend Enthusiast | Exploring Mobile & Go</i>
