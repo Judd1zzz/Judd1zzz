@@ -123,6 +123,8 @@ Years of commercial work live in private repositories:
 ## Activity
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-269%20hrs%201%20min-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -135,6 +137,29 @@ TypeScript               1 hr 55 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 💻 Operating System: 
 Mac                      24 hrs 29 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 17 mins (95.1%)
+
+✍️ 22,861 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 707,896,281 Input Tokens, 2,653,975 Output Tokens
+
+💵 $2313.59 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 114 AI Prompts
+
+Opus                     12,613 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sonnet                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,211 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
