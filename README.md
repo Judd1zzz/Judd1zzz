@@ -129,36 +129,35 @@ Years of commercial work live in private repositories:
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 53 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.19 % 
-Swift                    2 hrs 36 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.57 % 
-Text                     2 hrs 4 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.35 % 
-Python                   1 hr 37 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.54 % 
-Bash                     47 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.22 % 
+Markdown                 15 hrs 53 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.89 % 
+Swift                    1 hr 48 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.75 % 
+Python                   1 hr 37 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.92 % 
+Text                     1 hr 31 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.50 % 
+Bash                     47 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.41 % 
 
 💻 Operating System: 
-Mac                      24 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Mac                      23 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 23 hrs 24 mins (100.0%)
 
 ✍️ 4,597 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,990,663 Input Tokens, 2,693,841 Output Tokens
+🔤 19,178,672 Input Tokens, 2,549,498 Output Tokens
 
-💵 $530.30 Estimated AI Cost This Week
+💵 $517.69 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 281 AI Prompts
+🧠 20 AI Sessions, 275 AI Prompts
 
 Opus                     4,615 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-Haiku                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,552 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📚 Verbose Prompter — average 3,564 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
