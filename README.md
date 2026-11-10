@@ -123,6 +123,8 @@ Years of commercial work live in private repositories:
 ## Activity
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-496%20hrs%2018%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
